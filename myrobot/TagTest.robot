@@ -11,4 +11,8 @@ Test2
     Log    In Test2
     
 Test3
-    Log    In Test3        
+    Log    In Test3
+    
+Test4
+    [Tags]    lrg
+    Log    In Test4
